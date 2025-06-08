@@ -1,2 +1,2 @@
 # BlazorApp
-BLazor Appliation 
+Blazor Appliation 
